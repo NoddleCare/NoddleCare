@@ -6,7 +6,7 @@ At Noddle Care, we're on a mission to make mental wellness accessible and engagi
 
 ## 🌟 Why Noddle Care?
 
-- **👨‍👩‍👧‍👦 For Families:** Strengthen bonds and support therapy from the comfort of your home.
+- **👨‍👩‍👧‍👦 For Families:** Strengthen bonds with group support therapy from the comfort of your home.
 - **🏥 For Health Systems:** Partner with us to provide cost-effective mental wellness solutions.
 - **🔒 Privacy First:** We prioritize the safety and confidentiality of your family's data.
 
