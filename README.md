@@ -1,10 +1,10 @@
-# 👋 Welcome to NoddleCare's GitHub!
+# 👋 Welcome to Noddle Care's GitHub!
 
 ## 🚀 About Us
 
-At NoddleCare, we're on a mission to make mental wellness accessible and engaging for children and their families. Our app uses artificial intelligence to facilitate therapeutic interactions during play, aiding in the mental health journey of our users.
+At Noddle Care, we're on a mission to make mental wellness accessible and engaging for children and their families. Our app uses artificial intelligence to facilitate therapeutic group support and resilience building interactions during play, aiding in the mental health journey of our families.
 
-## 🌟 Why NoddleCare?
+## 🌟 Why Noddle Care?
 
 - **👨‍👩‍👧‍👦 For Families:** Strengthen bonds and support therapy from the comfort of your home.
 - **🏥 For Health Systems:** Partner with us to provide cost-effective mental wellness solutions.
@@ -12,7 +12,7 @@ At NoddleCare, we're on a mission to make mental wellness accessible and engagin
 
 ## 🛠️ Features
 
-- **AI-Powered Guidance:** Our app listens and provides therapeutic responses to support your child’s emotional growth.
+- **AI-Powered Guidance:** Our app listens and provides resilience building responses to support your child’s emotional growth. 
 - **Group Messaging:** Connect with a supportive community of families and therapists.
 - **Easy to Use:** Designed for seamless integration into daily routines.
 
