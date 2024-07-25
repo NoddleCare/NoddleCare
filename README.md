@@ -2,7 +2,7 @@
 
 ## 🚀 About Us
 
-At Noddle Care, we're on a mission to make mental wellness accessible and engaging for children and their families. Our app uses artificial intelligence to facilitate therapeutic group support and resilience building interactions during play, aiding in the mental health journey of our families.
+Through collaborating with other organizations, Noddle will provide social mental wellness for children and their families. Our mental health care will be play-based, holistic, and preventive, with community at its core, supporting the challenges families with young children face. We aim to make parenting less stressful and less lonely by integrating in-person group care with online support.  
 
 ## 🌟 Why Noddle Care?
 
