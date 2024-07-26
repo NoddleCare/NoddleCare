@@ -12,7 +12,6 @@ Through collaborating with other organizations, Noddle will provide social menta
 
 ## 🛠️ Features
 
-- **AI-Powered Guidance:** Our app listens and provides resilience building responses to support your child’s emotional growth. 
 - **Group Messaging:** Connect with a supportive group of families.
 - **In-person Care:** Our in-person group mental health sessions will leverage the power of play.
 
