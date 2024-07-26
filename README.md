@@ -6,15 +6,15 @@ Through collaborating with other organizations, Noddle will provide social menta
 
 ## 🌟 Why Noddle Care?
 
-- **👨‍👩‍👧‍👦 For Families:** Strengthen bonds with group support therapy from the comfort of your home.
+- **👨‍👩‍👧‍👦 For Families:** Supporting children and their families during ups and downs, for mental health prevention. 
 - **🏥 For Health Systems:** Partner with us to provide cost-effective mental wellness solutions.
 - **🔒 Privacy First:** We prioritize the safety and confidentiality of your family's data.
 
 ## 🛠️ Features
 
 - **AI-Powered Guidance:** Our app listens and provides resilience building responses to support your child’s emotional growth. 
-- **Group Messaging:** Connect with a supportive community of families and therapists.
-- **Easy to Use:** Designed for seamless integration into daily routines.
+- **Group Messaging:** Connect with a supportive group of families.
+- **In-person Care:** Our in-person group mental health sessions will leverage the power of play.
 
 ## 🔐 Our Commitment to Privacy
 
